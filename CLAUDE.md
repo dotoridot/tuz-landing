@@ -93,7 +93,7 @@ schema.sql에 추가 후 Supabase SQL Editor에 직접 붙여넣어야 적용됨
 
 ### Issue tracker
 
-GitHub Issues at `github.com/dotoricode/tuz-landing`. See `docs/agents/issue-tracker.md`.
+GitHub Issues at `github.com/dotoridot/tuz-landing`. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
